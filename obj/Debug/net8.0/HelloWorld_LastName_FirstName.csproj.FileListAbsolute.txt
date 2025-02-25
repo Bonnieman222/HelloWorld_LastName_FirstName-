@@ -1,0 +1,14 @@
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\bin\Debug\net8.0\HelloWorld_LastName_FirstName.exe
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\bin\Debug\net8.0\HelloWorld_LastName_FirstName.deps.json
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\bin\Debug\net8.0\HelloWorld_LastName_FirstName.runtimeconfig.json
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\bin\Debug\net8.0\HelloWorld_LastName_FirstName.dll
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\bin\Debug\net8.0\HelloWorld_LastName_FirstName.pdb
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.AssemblyInfoInputs.cache
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.AssemblyInfo.cs
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.csproj.CoreCompileInputs.cache
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.dll
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\refint\HelloWorld_LastName_FirstName.dll
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.pdb
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\HelloWorld_LastName_FirstName.genruntimeconfig.cache
+C:\Users\CONNERCORDELL\Downloads\HelloWorld_LastName_FirstName\obj\Debug\net8.0\ref\HelloWorld_LastName_FirstName.dll
